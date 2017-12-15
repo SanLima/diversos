@@ -14,4 +14,7 @@ Verificar Acentuação
 phpinfo();
 echo "That's it !"
 echo "uma linha a mais... ççÇÇçç";
+
+$controle = "controle remoto";
+
 ?>
