@@ -13,4 +13,5 @@ Verificar Acentuação
 <?php
 phpinfo();
 echo "That's it !"
+echo "uma linha a mais... ççÇÇçç";
 ?>
