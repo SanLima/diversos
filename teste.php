@@ -14,4 +14,8 @@ Verificar Acentuação
 phpinfo();
 echo "That's it !"
 echo "uma linha a mais... ççÇÇçç";
+$vet1=array("casa"=>"Modo antigo");
+$vet2=["casa":"não sei se funciona"];
+$vet3=["casa"=>"também nãoo sei se funciona"];
+
 ?>
